@@ -8,7 +8,7 @@
 
 <img align="right" width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV2cTA5NWc1MXpnZWxxeG5mNGl3djVodzU5dTZkMnFjYTU3MTVwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif">
 
-### My aspirations : 
+### My aspirations: 
  - Write high-quality code
  - Learn and apply new technologies
  - Solve complex problems
@@ -22,7 +22,7 @@
 
 
 
-### My skills :
+### My skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
