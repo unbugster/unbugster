@@ -1,5 +1,5 @@
 ## Hello and welcome to my GitHub page!👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=1000&color=1BF711&background=000000&center=true&vCenter=true&random=false&width=300&height=40&lines=The+matrix+has+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=8000&pause=1000&color=1BF711&background=000000&center=true&vCenter=true&random=false&width=300&height=40&lines=The+matrix+has+you+.+.+.)](https://git.io/typing-svg)
 
  I'm glad you're here. I'm a passionate software developer with a focus on front-end development. I'm always excited to connect with other developers and learn from them.
  Feel free to browse my projects and connect with me on social media. I'm always happy to chat about tech, programming, or anything else that's on your mind.
