@@ -9,18 +9,12 @@
 <img align="right" width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV2cTA5NWc1MXpnZWxxeG5mNGl3djVodzU5dTZkMnFjYTU3MTVwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif">
 
 ### My aspirations: 
- - Write high-quality code
- - Learn and apply new technologies
+ - Continuously learn and grow as a developer
+ - Write clean, well-structured, and easily readable code
  - Solve complex problems
  - Develop teamwork skills
  - Make a positive impact
-
-### Additional aspirations:
- - Become a mentor
- - Travel the world
-
-
-
+ - Follow the white rabbit
 
 ### My skills:
 
