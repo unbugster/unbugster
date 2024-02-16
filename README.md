@@ -3,7 +3,7 @@
 
  I'm glad you're here. I'm a passionate software developer with a focus on front-end development. I'm always excited to connect with other developers and learn from them.
  Feel free to browse my projects and connect with me on social media. I'm always happy to chat about tech, programming, or anything else that's on your mind.
- Thanks for visiting!
+ Thanks for visiting, you are breathtaking!
 
 
 <img align="right" width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnV2cTA5NWc1MXpnZWxxeG5mNGl3djVodzU5dTZkMnFjYTU3MTVwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif">
